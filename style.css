@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(blue,red)
+}
+
+#Karen img{
+ height: 60px;
+ width:25px;
+}
+
+.Karen-inner {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: crimson;
+}
